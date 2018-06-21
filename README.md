@@ -7,3 +7,4 @@ Notes for C++
 
 ## Maths book for ML and Data Scientist
 1. [Think Stat-Prob and stats using python](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+2. [Linear algebra for ML](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
